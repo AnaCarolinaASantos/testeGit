@@ -1,0 +1,17 @@
+JSF possui 2 arquivos principais de configurações:
+- Faces-config.xml: serve para mapear os beans da aplicação e especificar as regras de navegação. Mapear os beans significa
+especificar quais classes serão vistas e utilizadas por meio de páginas JSF.
+Web.xml: arquivo lido pelo servidor, e é através dele que o servidor obtem informação de qual framework está sendo utilizado
+, os niveis de segurança que serão aplicados, tempo de vida dos servlets, a páginas inicial, etc
+
+servlets: são classes javas especificas para web, que atendem requisições do usuário e dar respostas
+
+
+Java Web, Aplicacao web, escolher o framework JSF
+nome de pacote coloca nome do site invertido
+
+outputText exibe texto na tela
+rendered= só executa quando o nome for diferente de null
+
+
+Teste
